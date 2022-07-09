@@ -1,5 +1,5 @@
 # Cat-vs-Dog classifier
-CNN based dog and cat classifier
+CNN based dog and cat classifier and minimal api.
 
 ## Contains
 Floder Name | Description
